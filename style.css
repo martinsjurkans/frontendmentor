@@ -1,0 +1,44 @@
+.tier1-card {
+    height: 499px;
+    width: 320px;
+    position: relative;
+    top: 230.5px; left: 560px;
+    border-radius: 20px;
+}
+
+.qr-code-image {
+    height: 288px;
+    width: 288px;
+    position: relative;
+    top: 16px; left: 16px;
+    border-radius: 10px;
+}
+
+.text-box {
+    width: 288px;
+    height: 131px;
+    position: relative;
+    left: 16px; bottom: 40px; top: 16px;
+    
+}
+
+.title-text h2 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 22px;
+    line-height: 120%;
+    font-weight: bold;
+    padding-left: 16px; padding-right: 16px;
+    text-align: center;
+    color: #1F314F;
+}
+
+.sub-text h3 {
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px; 
+    line-height: 140%;
+    letter-spacing: 0.19px;
+    padding-left: 16px; padding-right: 16px; padding-bottom: 16px;
+    text-align: center;
+    color: #68778D;
+    font-weight: normal;
+}
